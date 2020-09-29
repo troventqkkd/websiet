@@ -2686,3 +2686,39 @@ span.stButton_gradient,
   border-radius: 100%;
   margin: 10px 0;
 }
+
+.center_div{
+  margin: 0 auto;
+  width:80% /* value of your choice which suits your alignment */
+}
+.form-div{
+  
+  border-radius: 12px;
+  margin-bottom: 110px;
+  margin-top: 100px;
+  padding: 20px;
+  
+}
+
+input[type="file"] {
+  position: absolute;
+  z-index: -1;
+  top: 6px;
+  left: 0px;
+  font-size: 15px;
+  color: rgb(153,153,153);
+}
+
+.button-wrap {
+  position: relative;
+}
+
+.new-button {
+    display: inline-block;
+    padding: 8px 12px; 
+    cursor: pointer;
+    border-radius: 4px;
+    background-color:#00569b;
+    font-size: 16px;
+    color: #fff;
+}
