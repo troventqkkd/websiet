@@ -2722,3 +2722,8 @@ input[type="file"] {
     font-size: 16px;
     color: #fff;
 }
+
+.mn-sz{
+  min-height: 261px; 
+  min-width: 269px;
+}
