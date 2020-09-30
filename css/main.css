@@ -2724,6 +2724,6 @@ input[type="file"] {
 }
 
 .mn-sz{
-  min-height: 261px; 
-  min-width: 269px;
+  height: 261px; 
+  width: 269px;
 }
