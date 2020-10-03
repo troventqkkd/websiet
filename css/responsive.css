@@ -167,6 +167,14 @@
 /* xs */
 
 @media only screen and (max-width: 768px) {
+    .carousel-cst{
+        width:100%;
+        margin: 0 auto;
+      }
+      .carousel-cst img{
+        width: 100%;
+      }
+    
     #company-information img{
         margin-bottom: 20px;
     }

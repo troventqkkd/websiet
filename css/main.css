@@ -2731,3 +2731,12 @@ input[type="file"] {
   height: 261px; 
   width: 269px;
 }
+
+
+.carousel-cst{
+  width:80%;
+  margin: 0 auto;
+}
+.carousel-cst img{
+  width: 100%;
+}
