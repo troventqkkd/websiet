@@ -402,6 +402,10 @@ color: white;
   margin-top: 36px;
 }
 
+#footer h2{
+ color: white!important;
+}
+
 #footer .bottom-separator {
   margin-bottom: 60px;
 }
@@ -1955,6 +1959,7 @@ span.stButton_gradient,
   width: 28%;
   margin: 5px auto;
 }
+
 
 .corporate-info .corporate-address {
   background-image: url("../images/contact-bg.png");
