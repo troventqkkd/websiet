@@ -468,7 +468,9 @@ color: white;
   font-family: 'Noto Sans', sans-serif;
   line-height: 0;
 }
-
+.contact-info li{
+list-style: none!important;
+}
 .contact-info.bottom {
   padding-left: 25px;
 }
