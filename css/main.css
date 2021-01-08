@@ -1,11 +1,4 @@
-/*
-  Theme Name: Triangle
-  Theme Uri: http://www.themeum.com
-  Author: Themeum
-  Author Uri: http://www.themeum.com
-  Description: Creative Site Template
-  Version: 1.1
-  */
+
 
   @import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700);
   @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700);
@@ -18,6 +11,7 @@
     font-size: 14px;
     line-height: 22px;
     color: #000;
+    overflow-x: hidden;
   }
 
   html {
@@ -402,6 +396,10 @@ color: white;
   margin-top: 36px;
 }
 
+#footer h2{
+ color: white!important;
+}
+
 #footer .bottom-separator {
   margin-bottom: 60px;
 }
@@ -470,7 +468,9 @@ color: white;
   font-family: 'Noto Sans', sans-serif;
   line-height: 0;
 }
-
+.contact-info li{
+list-style: none!important;
+}
 .contact-info.bottom {
   padding-left: 25px;
 }
@@ -1955,6 +1955,7 @@ span.stButton_gradient,
   width: 28%;
   margin: 5px auto;
 }
+
 
 .corporate-info .corporate-address {
   background-image: url("../images/contact-bg.png");

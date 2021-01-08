@@ -264,7 +264,9 @@
         text-align: center;
     }
     #home-slider .slider-hill {
-        right: 50%;
+        /* right: 50%; */
+        width: 100%;
+        left: 0;
         margin-right: -200px;
     }
     #home-slider .slider-house {
